@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MoltenGama</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code0008&label=Profile%20views&color=b10eb4&style=flat-square" alt="code0008" /> </p>
 
